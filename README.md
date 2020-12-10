@@ -4,3 +4,4 @@ This dataset includes the age and salaries of customers (features), who decide i
 * K-NN Model: 201129-K-NN.ipynb
 * linear SVM Model: 201202-linear-SVM.ipynb
 * rbf kernel SVM Model: 201202-kernel-SVM.ipynb
+* Naive Bayes Model: 201211_NaiveBayes.ipynb
