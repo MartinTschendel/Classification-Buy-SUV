@@ -7,3 +7,7 @@ This dataset includes the age and salaries of customers (features), who decide i
 * Naive Bayes Model: 201211_NaiveBayes.ipynb
 * Decision Tree Model: 201211_DecisionTree.ipynb
 * Random Forest Model: 201212_RandomForest.ipynb
+
+## Expose the Random Forest ML Service as an API
+* prepare and train the model, save the model in the file 'rf.pkl': prepare_model.py
+* use flask to create a web API, autogenerate a user interface with flasgger: flask_predict_api.py
